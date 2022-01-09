@@ -49,9 +49,9 @@ public class MainRecyclerViewAdapter extends RecyclerView.Adapter<MainRecyclerVi
         View view;
 
         ImageView personImageView;
-        TextView nameTextView ;
-        TextView phoneNumberTextView ;
-        ImageView callImageView ;
+        TextView nameTextView;
+        TextView phoneNumberTextView;
+        ImageView callImageView;
 
         public ViewHolder(View view) {
             super(view);
